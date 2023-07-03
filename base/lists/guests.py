@@ -32,6 +32,10 @@ names.append("frank")
 
 print(names)
 
+length_names = len(names)
+
+print(f"\nA total of {length_names} people were invited\n")
+
 # --------------------------------------------------------------------------- #
 print("\nUnfortunately, only two guests are invited to dinner\n")
 
