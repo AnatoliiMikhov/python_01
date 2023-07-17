@@ -1,12 +1,7 @@
 import sys
 
 sys.path.append("library")
-import to_lowercase
-
-# --------------------------------------------------------------------------- #
-
-
-# from to_lowercase import translate_to_lower
+from to_lowercase import translate_to_lower
 
 # --------------------------------------------------------------------------- #
 
@@ -38,7 +33,7 @@ new_users = [
 
 # ------------------------ current user to lowercase ------------------------ #
 
-current_users_lowercase = to_lowercase.translate_to_lower(current_users)
+current_users_lowercase = translate_to_lower(current_users)
 
 # print(current_users_lowercase)
 
