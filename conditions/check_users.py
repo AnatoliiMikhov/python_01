@@ -1,7 +1,7 @@
 import sys
 
 sys.path.append("library")
-from to_lowercase import translate_to_lower
+from case import translate_to_lower
 
 # --------------------------------------------------------------------------- #
 
