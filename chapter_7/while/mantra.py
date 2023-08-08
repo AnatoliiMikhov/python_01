@@ -12,10 +12,10 @@ print("\n...\n")
 # --------------------------------------------------------------------------- #
 
 counter = 1
-mantra = "Om Ah Hum Vajra Guru Padme Siddhi Hum"
+mantra = "Oṃ Āh Hūṃ Vajra Guru Padma Siddhi Hūṃ Oṃ Āh Hūṃ "
 
 while counter <= 100:
-    mantra += " Om Ah Hum Vajra Guru Padme Siddhi Hum"
+    mantra += " Oṃ Āh Hūṃ Vajra Guru Padma Siddhi Hūṃ Oṃ Āh Hūṃ "
     counter += 1
 
 print(mantra)
