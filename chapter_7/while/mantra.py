@@ -1,4 +1,4 @@
-# counting.py
+# mantra.py
 import time
 
 
